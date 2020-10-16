@@ -1,1 +1,1 @@
-console.log('pull request issue')
+console.log('commit resolve issue')
