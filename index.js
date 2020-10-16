@@ -1,1 +1,1 @@
-console.log('make pull request')
+console.log('pull request template test')
