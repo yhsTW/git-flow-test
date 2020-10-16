@@ -1,1 +1,1 @@
-console.log('pull request title resolve')
+console.log('test')
