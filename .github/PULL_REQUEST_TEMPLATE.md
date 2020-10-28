@@ -1,6 +1,7 @@
 ## 개요
 - [ ] Feature
 - [ ] QA/Bug Reports
+- [ ] 기타 :
 
 ## 설명
 ...
