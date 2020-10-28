@@ -1,6 +1,1 @@
-console.log('pull request template test')
-console.log('release bug fix')
-console.log('111111111111111')
-console.log('22222222222')
-console.log('333333333')
-console.log('ggggggggggggggggg')
+console.log('linked issues')
