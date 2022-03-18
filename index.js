@@ -1,5 +1,2 @@
-console.log('linked issues')
-console.log('tttttest');
-console.log('test 2')
-console.log('pull request link test')
-console.log('git flow test');
+console.log('work');
+console.log('additional work');
