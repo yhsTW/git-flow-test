@@ -1,3 +1,8 @@
+<!-- presettings
+titel=
+label=bug
+--->
+
 ## 개요
 - [ ] Feature
 - [ ] QA/Bug Reports
