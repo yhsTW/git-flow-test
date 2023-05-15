@@ -1,0 +1,20 @@
+changelog:
+    categories:
+        - title: 새로운 기능
+          labels:
+              - 🧀 기능
+        - title: 버그 수정
+          labels:
+              - 🐛 버그 수정
+        - title: 리팩토링
+          labels:
+              - 🛁 리팩토링
+        - title: 디자인
+          labels:
+              - 🔮 디자인
+        - title: 테스트
+          labels:
+              - 🛼 테스트
+        - title: 기타
+          labels:
+              - '*'
